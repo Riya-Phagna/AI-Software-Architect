@@ -253,6 +253,18 @@ Export: JSON / Markdown Report
 <img width="1905" height="874" alt="image" src="https://github.com/user-attachments/assets/6e36dbd2-a2ea-49db-b23d-836ad7b1480b" />
 
 <img width="1914" height="846" alt="image" src="https://github.com/user-attachments/assets/479faa9e-560b-4187-81ae-e250f5a337c0" />
+<img width="1876" height="853" alt="image" src="https://github.com/user-attachments/assets/dade1dbd-0cdf-496b-a596-24afa80e7d6c" />
+<img width="1898" height="809" alt="image" src="https://github.com/user-attachments/assets/f527399b-88a6-4938-9fcd-6a967c759d51" />
+<img width="1891" height="833" alt="image" src="https://github.com/user-attachments/assets/ed730551-2334-4be8-bf1d-1d2c02bc8dc6" />
+<img width="1912" height="843" alt="image" src="https://github.com/user-attachments/assets/8f9b2c44-e1f3-429e-9f36-fd380c977c3e" />
+<img width="1896" height="812" alt="image" src="https://github.com/user-attachments/assets/d9a40e60-4cf2-41b6-9bb6-625b0b1dc796" />
+<img width="1911" height="838" alt="image" src="https://github.com/user-attachments/assets/eca450ee-6bb7-4780-8479-2b064e973f71" />
+<img width="1920" height="820" alt="image" src="https://github.com/user-attachments/assets/16796732-5350-4cd4-8b73-4defa88b6918" />
+
+
+
+
+
 
 
 </div>
