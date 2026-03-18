@@ -1,7 +1,7 @@
 # 🏛️ AI Software Architect 
 BY:
 Riya Phagna 
-MCA
+MCA 
 
 **Design scalable system architectures in seconds using AI.**
 
